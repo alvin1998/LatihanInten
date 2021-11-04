@@ -1,0 +1,2 @@
+rootProject.name = "IntenAlvin"
+include ':app'
