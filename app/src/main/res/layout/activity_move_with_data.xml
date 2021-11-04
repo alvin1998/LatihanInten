@@ -11,5 +11,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/data_recevied" />
+    <Button
+        android:id="@+id/btn_back1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kembali"
+        android:layout_below="@+id/tv_data_receiver"
+        android:layout_centerHorizontal="true"/>
 
 </RelativeLayout>
