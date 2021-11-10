@@ -30,5 +30,41 @@
         android:layout_below="@+id/btn_movr_activity"
         android:layout_marginLeft="@dimen/activity_veritcal_margin"
         />
+    <Button
+        android:id="@+id/btn_dial_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dail_number"
+        android:layout_marginBottom="@dimen/activity_veritcal_margin"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_below="@+id/btn_movr_with_data"
+        android:layout_marginLeft="@dimen/activity_veritcal_margin"
+        />
+    <Button
+        android:id="@+id/btn_result_from_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/result_forom_activity"
+
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_below="@+id/btn_dial_number"
+        android:layout_marginBottom="@dimen/activity_veritcal_margin"
+        android:layout_marginLeft="@dimen/activity_veritcal_margin"
+        />
+
+    <TextView
+        android:id="@+id/tv_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_result_from_activity"
+        android:layout_marginBottom="@dimen/activity_veritcal_margin"
+        android:layout_marginLeft="@dimen/activity_veritcal_margin"
+        android:gravity="center"
+        android:textSize="24sp"
+        android:background="@color/white"
+        android:textColor="@color/purple_500"
+        android:text="TextView" />
 
 </RelativeLayout>
