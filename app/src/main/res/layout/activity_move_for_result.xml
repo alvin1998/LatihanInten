@@ -40,6 +40,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/_yellow" />
+        <RadioButton
+            android:id="@+id/rb_polkadot"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/_polkadot" />
     </RadioGroup>
 
     <Button
