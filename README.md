@@ -1,2 +1,2 @@
 # LatihanInten
-nama saya ade sss
+nama saya polo
