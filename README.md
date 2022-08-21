@@ -1,2 +1,2 @@
 # LatihanInten
-Latihan Inten Alvin
+nama saya ades
