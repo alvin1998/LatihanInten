@@ -1,2 +1,2 @@
 # LatihanInten
-nama saya ade
+nama saya ade sss
